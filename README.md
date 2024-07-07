@@ -2,6 +2,11 @@
 
 This is a lightweight and optimized script for FiveM that allows players to apply fake plates to vehicles. It includes a countdown and ensures the player has the required items before starting the application process.
 
+# Requirements!
+
+1. ox_lib
+2. Ox_inventory
+
 # Features
 - Allows players to apply fake plates to vehicles.
 - Displays a countdown timer with a visual indicator before applying the fake plate.
