@@ -4,7 +4,7 @@ This is a lightweight and optimized script for FiveM that allows players to appl
 
 # Requirements!
 
-1. ox_lib
+1. Ox_lib
 2. Ox_inventory
 
 # Features
