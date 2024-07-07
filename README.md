@@ -12,12 +12,12 @@ This is a lightweight and optimized script for FiveM that allows players to appl
 - Displays a countdown timer with a visual indicator before applying the fake plate.
 - Checks if the player has the required items before starting the process.
 - Optimized for performance and resource usage to minimize server overhead.
--Lightweight and easy to install and configure.
+- Lightweight and easy to install and configure.
 
 # Installation
 1. Clone or download the repository.
-2. Copy the fake_plate folder to your resources directory.
-3. Add ensure fake_plate to your server.cfg.
+2. Copy the ```fake_plate``` folder to your resources directory.
+3. Add ```ensure fake_plate``` to your server.cfg.
 4. Configure the needed requirements in the server.lua.
 
 # Usage / Documentation
