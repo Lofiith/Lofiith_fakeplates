@@ -6,6 +6,7 @@ This is a lightweight and optimized script for FiveM that allows players to appl
 
 1. Ox_lib
 2. Ox_inventory
+3. ox_target
 
 # Features
 - Allows players to apply fake plates to vehicles.
